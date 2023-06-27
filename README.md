@@ -1,2 +1,2 @@
 # travelling_website
-It's a travel website made by using html, css, javascript.
+It's a travel website and it's frontend is developed with html, css, javascript.
